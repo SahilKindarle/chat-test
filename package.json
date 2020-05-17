@@ -8,7 +8,8 @@
   "author": "Sahil Kindarle",
   "private": true,
   "scripts": {
-    "test": "echo \"No test specified\" && exit 0"
+    "test": "echo \"No test specified\" && exit 0",
+    "start": "quasar dev"
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
